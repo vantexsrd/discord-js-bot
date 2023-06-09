@@ -63,6 +63,6 @@ Leave the ( ServerID ) in ( Source/System.js ) file blank if you want to registe
 
 ## Made by Vante (vante#1337)
 
-**⭐ Remember to star the repository if you like it! ⭐**
+**⭐ Remember to star & fork the repository if you like it! ⭐**
 
 ---
